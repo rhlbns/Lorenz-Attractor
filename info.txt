@@ -1,0 +1,333 @@
+/home/rahul/anaconda3/HaarTraining/faces/10.jpeg 1 63 2 142 179
+/home/rahul/anaconda3/HaarTraining/faces/11.jpeg 1 24 9 181 172
+/home/rahul/anaconda3/HaarTraining/faces/12.jpeg 1 33 56 124 147
+/home/rahul/anaconda3/HaarTraining/faces/13.jpeg 1 72 4 107 126
+/home/rahul/anaconda3/HaarTraining/faces/14.jpeg 1 84 28 120 148
+/home/rahul/anaconda3/HaarTraining/faces/15.jpeg 1 23 39 124 155
+/home/rahul/anaconda3/HaarTraining/faces/16.jpeg 1 112 3 113 142
+/home/rahul/anaconda3/HaarTraining/faces/17.jpeg 1 30 44 106 144
+/home/rahul/anaconda3/HaarTraining/faces/18.jpeg 1 7 21 129 167
+/home/rahul/anaconda3/HaarTraining/faces/19.jpeg 1 115 2 129 160
+/home/rahul/anaconda3/HaarTraining/faces/20.jpeg 1 19 0 165 162
+/home/rahul/anaconda3/HaarTraining/faces/21.jpeg 1 63 20 112 135
+/home/rahul/anaconda3/HaarTraining/faces/22.jpeg 1 78 53 134 109
+/home/rahul/anaconda3/HaarTraining/faces/23.jpeg 1 39 55 104 156
+/home/rahul/anaconda3/HaarTraining/faces/24.jpeg 1 29 50 134 174
+/home/rahul/anaconda3/HaarTraining/faces/25.jpeg 1 133 15 78 119
+/home/rahul/anaconda3/HaarTraining/faces/26.jpeg 1 29 55 138 162
+/home/rahul/anaconda3/HaarTraining/faces/27.jpeg 1 66 16 146 191
+/home/rahul/anaconda3/HaarTraining/faces/28.jpeg 1 4 10 151 111
+/home/rahul/anaconda3/HaarTraining/faces/29.jpeg 1 133 40 70 66
+/home/rahul/anaconda3/HaarTraining/faces/3.jpeg 1 13 40 172 216
+/home/rahul/anaconda3/HaarTraining/faces/30.jpeg 1 53 49 134 135
+/home/rahul/anaconda3/HaarTraining/faces/31.jpeg 1 79 23 164 143
+/home/rahul/anaconda3/HaarTraining/faces/32.jpeg 1 28 47 141 154
+/home/rahul/anaconda3/HaarTraining/faces/33.jpeg 1 56 65 123 118
+/home/rahul/anaconda3/HaarTraining/faces/34.jpeg 1 112 39 71 88
+/home/rahul/anaconda3/HaarTraining/faces/35.jpeg 1 101 94 63 78
+/home/rahul/anaconda3/HaarTraining/faces/36.jpeg 1 92 31 73 101
+/home/rahul/anaconda3/HaarTraining/faces/37.jpeg 1 29 56 107 115
+/home/rahul/anaconda3/HaarTraining/faces/38.jpeg 1 99 42 90 115
+/home/rahul/anaconda3/HaarTraining/faces/39.jpeg 1 34 37 130 150
+/home/rahul/anaconda3/HaarTraining/faces/4.jpeg 1 89 17 118 143
+/home/rahul/anaconda3/HaarTraining/faces/41.jpeg 1 21 51 154 160
+/home/rahul/anaconda3/HaarTraining/faces/42.jpeg 1 45 37 82 99
+/home/rahul/anaconda3/HaarTraining/faces/43.jpeg 1 45 70 103 121
+/home/rahul/anaconda3/HaarTraining/faces/44.jpeg 1 133 44 59 67
+/home/rahul/anaconda3/HaarTraining/faces/45.jpeg 1 100 29 85 98
+/home/rahul/anaconda3/HaarTraining/faces/46.jpeg 1 100 38 83 88
+/home/rahul/anaconda3/HaarTraining/faces/47.jpeg 1 52 18 58 76
+/home/rahul/anaconda3/HaarTraining/faces/48.jpeg 1 109 18 65 74
+/home/rahul/anaconda3/HaarTraining/faces/49.jpeg 1 49 12 152 169
+/home/rahul/anaconda3/HaarTraining/faces/5.jpeg 1 28 57 123 156
+/home/rahul/anaconda3/HaarTraining/faces/50.jpeg 1 39 40 93 113
+/home/rahul/anaconda3/HaarTraining/faces/51.jpeg 1 15 15 113 134
+/home/rahul/anaconda3/HaarTraining/faces/52.jpeg 1 106 36 59 74
+/home/rahul/anaconda3/HaarTraining/faces/53.jpeg 1 78 26 69 101
+/home/rahul/anaconda3/HaarTraining/faces/54.jpeg 1 66 53 114 171
+/home/rahul/anaconda3/HaarTraining/faces/55.jpeg 1 98 36 84 113
+/home/rahul/anaconda3/HaarTraining/faces/56.jpeg 1 82 21 77 129
+/home/rahul/anaconda3/HaarTraining/faces/57.jpeg 1 47 36 61 65
+/home/rahul/anaconda3/HaarTraining/faces/58.jpeg 1 99 36 67 100
+/home/rahul/anaconda3/HaarTraining/faces/59.jpeg 1 161 50 97 109
+/home/rahul/anaconda3/HaarTraining/faces/6.jpeg 1 33 43 125 161
+/home/rahul/anaconda3/HaarTraining/faces/60.jpeg 1 41 85 110 133
+/home/rahul/anaconda3/HaarTraining/faces/61.jpeg 1 155 29 77 116
+/home/rahul/anaconda3/HaarTraining/faces/62.jpeg 1 99 15 52 49
+/home/rahul/anaconda3/HaarTraining/faces/63.jpeg 1 94 1 125 150
+/home/rahul/anaconda3/HaarTraining/faces/643.jpeg 1 48 27 112 160
+/home/rahul/anaconda3/HaarTraining/faces/65.jpeg 1 91 43 78 112
+/home/rahul/anaconda3/HaarTraining/faces/66.jpeg 1 37 59 117 149
+/home/rahul/anaconda3/HaarTraining/faces/67.jpeg 1 46 52 111 136
+/home/rahul/anaconda3/HaarTraining/faces/68.jpeg 1 28 50 111 140
+/home/rahul/anaconda3/HaarTraining/faces/69.jpeg 1 38 46 132 174
+/home/rahul/anaconda3/HaarTraining/faces/7.jpeg 1 49 66 124 138
+/home/rahul/anaconda3/HaarTraining/faces/70.jpeg 1 142 19 76 106
+/home/rahul/anaconda3/HaarTraining/faces/71.jpeg 1 16 49 125 109
+/home/rahul/anaconda3/HaarTraining/faces/72.jpeg 1 58 20 108 142
+/home/rahul/anaconda3/HaarTraining/faces/73.jpeg 1 13 55 141 171
+/home/rahul/anaconda3/HaarTraining/faces/74.jpeg 1 30 83 122 158
+/home/rahul/anaconda3/HaarTraining/faces/75.jpeg 1 74 42 82 117
+/home/rahul/anaconda3/HaarTraining/faces/76.jpeg 1 66 41 81 108
+/home/rahul/anaconda3/HaarTraining/faces/77.jpeg 1 61 41 106 166
+/home/rahul/anaconda3/HaarTraining/faces/78.jpeg 1 67 24 77 110
+/home/rahul/anaconda3/HaarTraining/faces/79.jpeg 1 14 33 157 209
+/home/rahul/anaconda3/HaarTraining/faces/8.jpg 1 171 64 58 178
+/home/rahul/anaconda3/HaarTraining/faces/80.jpeg 1 122 25 64 94
+/home/rahul/anaconda3/HaarTraining/faces/81.jpeg 1 45 34 86 130
+/home/rahul/anaconda3/HaarTraining/faces/82.jpeg 1 98 13 97 130
+/home/rahul/anaconda3/HaarTraining/faces/83.jpeg 1 66 29 88 108
+/home/rahul/anaconda3/HaarTraining/faces/9.jpeg 1 82 28 101 147
+/home/rahul/anaconda3/HaarTraining/more_faces/100.jpeg 1 71 76 70 118
+/home/rahul/anaconda3/HaarTraining/more_faces/101.jpeg 1 75 35 72 97
+/home/rahul/anaconda3/HaarTraining/more_faces/102.jpeg 1 78 14 114 153
+/home/rahul/anaconda3/HaarTraining/more_faces/103.jpeg 1 43 8 129 179
+/home/rahul/anaconda3/HaarTraining/more_faces/104.jpeg 1 79 38 96 120
+/home/rahul/anaconda3/HaarTraining/more_faces/105.jpeg 1 45 52 92 122
+/home/rahul/anaconda3/HaarTraining/more_faces/106.jpeg 1 50 53 96 129
+/home/rahul/anaconda3/HaarTraining/more_faces/107.jpeg 1 85 40 57 81
+/home/rahul/anaconda3/HaarTraining/more_faces/108.jpeg 1 89 28 86 116
+/home/rahul/anaconda3/HaarTraining/more_faces/109.jpeg 1 50 88 65 74
+/home/rahul/anaconda3/HaarTraining/more_faces/110.jpeg 1 82 45 96 137
+/home/rahul/anaconda3/HaarTraining/more_faces/111.jpeg 1 59 24 80 96
+/home/rahul/anaconda3/HaarTraining/more_faces/112.jpeg 1 48 52 95 123
+/home/rahul/anaconda3/HaarTraining/more_faces/113.jpeg 1 59 35 112 136
+/home/rahul/anaconda3/HaarTraining/more_faces/114.jpeg 1 98 7 139 150
+/home/rahul/anaconda3/HaarTraining/more_faces/115.jpeg 1 66 45 48 56
+/home/rahul/anaconda3/HaarTraining/more_faces/116.jpeg 1 35 39 133 176
+/home/rahul/anaconda3/HaarTraining/more_faces/117.jpeg 1 85 43 61 103
+/home/rahul/anaconda3/HaarTraining/more_faces/118.jpeg 1 101 68 82 106
+/home/rahul/anaconda3/HaarTraining/more_faces/119.jpeg 1 70 35 63 93
+/home/rahul/anaconda3/HaarTraining/more_faces/120.jpeg 1 124 62 52 57
+/home/rahul/anaconda3/HaarTraining/more_faces/121.jpeg 1 8 23 182 215
+/home/rahul/anaconda3/HaarTraining/more_faces/122.jpeg 1 91 34 56 91
+/home/rahul/anaconda3/HaarTraining/more_faces/123.jpeg 1 116 58 76 117
+/home/rahul/anaconda3/HaarTraining/more_faces/124.jpeg 1 92 47 93 88
+/home/rahul/anaconda3/HaarTraining/more_faces/125.jpeg 1 55 11 104 142
+/home/rahul/anaconda3/HaarTraining/more_faces/126.jpeg 1 14 21 147 164
+/home/rahul/anaconda3/HaarTraining/more_faces/127.jpeg 1 89 34 57 61
+/home/rahul/anaconda3/HaarTraining/more_faces/128.jpeg 1 34 36 98 124
+/home/rahul/anaconda3/HaarTraining/more_faces/129.jpeg 1 185 10 63 78
+/home/rahul/anaconda3/HaarTraining/more_faces/130.jpeg 1 67 29 102 119
+/home/rahul/anaconda3/HaarTraining/more_faces/131.jpeg 1 38 47 121 162
+/home/rahul/anaconda3/HaarTraining/more_faces/132.jpeg 1 65 17 90 116
+/home/rahul/anaconda3/HaarTraining/more_faces/133.jpeg 1 41 40 117 169
+/home/rahul/anaconda3/HaarTraining/more_faces/134.jpeg 1 45 34 126 159
+/home/rahul/anaconda3/HaarTraining/more_faces/135.jpeg 1 117 20 64 78
+/home/rahul/anaconda3/HaarTraining/more_faces/136.jpeg 1 132 14 99 116
+/home/rahul/anaconda3/HaarTraining/more_faces/137.jpeg 1 24 41 103 120
+/home/rahul/anaconda3/HaarTraining/more_faces/138.jpeg 1 52 36 99 102
+/home/rahul/anaconda3/HaarTraining/more_faces/139.jpeg 1 47 39 105 151
+/home/rahul/anaconda3/HaarTraining/more_faces/140.jpeg 1 51 26 116 165
+/home/rahul/anaconda3/HaarTraining/more_faces/141.jpeg 1 86 35 82 123
+/home/rahul/anaconda3/HaarTraining/more_faces/142.jpeg 1 61 47 84 106
+/home/rahul/anaconda3/HaarTraining/more_faces/143.jpeg 1 44 19 122 171
+/home/rahul/anaconda3/HaarTraining/more_faces/144.jpeg 1 81 60 99 138
+/home/rahul/anaconda3/HaarTraining/more_faces/145.jpeg 1 92 12 80 136
+/home/rahul/anaconda3/HaarTraining/more_faces/146.jpeg 1 46 31 71 107
+/home/rahul/anaconda3/HaarTraining/more_faces/147.jpg 1 429 86 108 149
+/home/rahul/anaconda3/HaarTraining/more_faces/148.jpeg 1 53 51 112 128
+/home/rahul/anaconda3/HaarTraining/more_faces/149.jpeg 1 80 42 44 71
+/home/rahul/anaconda3/HaarTraining/more_faces/150.jpeg 1 43 58 71 90
+/home/rahul/anaconda3/HaarTraining/more_faces/151.jpeg 1 133 17 126 139
+/home/rahul/anaconda3/HaarTraining/more_faces/152.jpeg 1 48 42 80 121
+/home/rahul/anaconda3/HaarTraining/more_faces/153.jpeg 1 90 41 87 118
+/home/rahul/anaconda3/HaarTraining/more_faces/155.jpeg 1 111 30 83 120
+/home/rahul/anaconda3/HaarTraining/more_faces/156.jpeg 1 100 20 25 37
+/home/rahul/anaconda3/HaarTraining/more_faces/157.jpeg 1 113 12 116 166
+/home/rahul/anaconda3/HaarTraining/more_faces/158.jpeg 1 30 20 146 162
+/home/rahul/anaconda3/HaarTraining/more_faces/159.jpeg 1 91 52 80 118
+/home/rahul/anaconda3/HaarTraining/more_faces/160.jpeg 1 60 63 108 139
+/home/rahul/anaconda3/HaarTraining/more_faces/161.jpeg 1 58 45 55 71
+/home/rahul/anaconda3/HaarTraining/more_faces/162.jpeg 1 46 52 82 99
+/home/rahul/anaconda3/HaarTraining/more_faces/163.jpeg 1 35 60 116 152
+/home/rahul/anaconda3/HaarTraining/more_faces/164.jpeg 1 88 8 139 151
+/home/rahul/anaconda3/HaarTraining/more_faces/165.jpeg 1 58 33 107 128
+/home/rahul/anaconda3/HaarTraining/more_faces/166.jpeg 1 24 0 175 216
+/home/rahul/anaconda3/HaarTraining/more_faces/167.jpeg 1 85 50 39 62
+/home/rahul/anaconda3/HaarTraining/more_faces/168.jpeg 1 49 5 146 184
+/home/rahul/anaconda3/HaarTraining/more_faces/169.jpeg 1 93 33 85 117
+/home/rahul/anaconda3/HaarTraining/more_faces/170.jpeg 1 42 52 99 127
+/home/rahul/anaconda3/HaarTraining/more_faces/171.jpeg 1 131 5 134 151
+/home/rahul/anaconda3/HaarTraining/more_faces/172.jpeg 1 14 13 83 93
+/home/rahul/anaconda3/HaarTraining/more_faces/173.jpeg 1 26 8 89 140
+/home/rahul/anaconda3/HaarTraining/more_faces/174.jpeg 1 106 28 54 54
+/home/rahul/anaconda3/HaarTraining/more_faces/175.jpeg 1 82 2 78 80
+/home/rahul/anaconda3/HaarTraining/more_faces/176.jpeg 1 114 42 47 61
+/home/rahul/anaconda3/HaarTraining/more_faces/177.jpeg 1 61 54 116 136
+/home/rahul/anaconda3/HaarTraining/more_faces/178.jpeg 1 33 34 97 131
+/home/rahul/anaconda3/HaarTraining/more_faces/179.jpeg 1 51 55 112 140
+/home/rahul/anaconda3/HaarTraining/more_faces/180.jpeg 1 45 50 122 136
+/home/rahul/anaconda3/HaarTraining/more_faces/181.jpeg 1 91 23 77 99
+/home/rahul/anaconda3/HaarTraining/more_faces/182.jpeg 1 169 24 70 95
+/home/rahul/anaconda3/HaarTraining/more_faces/183.jpeg 1 124 21 61 76
+/home/rahul/anaconda3/HaarTraining/more_faces/184.jpeg 1 199 31 37 64
+/home/rahul/anaconda3/HaarTraining/more_faces/185.jpeg 1 72 51 63 92
+/home/rahul/anaconda3/HaarTraining/more_faces/186.jpeg 1 54 2 123 181
+/home/rahul/anaconda3/HaarTraining/more_faces/187.jpeg 1 119 20 55 73
+/home/rahul/anaconda3/HaarTraining/more_faces/188.jpeg 1 93 12 50 68
+/home/rahul/anaconda3/HaarTraining/more_faces/189.jpeg 1 18 54 102 114
+/home/rahul/anaconda3/HaarTraining/more_faces/190.jpeg 1 81 25 58 101
+/home/rahul/anaconda3/HaarTraining/more_faces/191.jpeg 1 67 47 111 145
+/home/rahul/anaconda3/HaarTraining/more_faces/192.jpeg 1 49 43 91 133
+/home/rahul/anaconda3/HaarTraining/more_faces/193.jpeg 1 139 37 57 67
+/home/rahul/anaconda3/HaarTraining/more_faces/194.jpeg 1 23 26 69 84
+/home/rahul/anaconda3/HaarTraining/more_faces/195.jpeg 1 179 33 50 62
+/home/rahul/anaconda3/HaarTraining/more_faces/196.jpeg 1 57 29 69 79
+/home/rahul/anaconda3/HaarTraining/more_faces/197.jpeg 1 77 41 58 69
+/home/rahul/anaconda3/HaarTraining/more_faces/198.jpeg 1 76 13 98 126
+/home/rahul/anaconda3/HaarTraining/more_faces/199.jpeg 1 57 40 95 121
+/home/rahul/anaconda3/HaarTraining/more_faces/200.jpeg 1 61 34 86 119
+/home/rahul/anaconda3/HaarTraining/extra_faces/faces.jpg 70 310 64 41 50 392 61 34 42 392 61 34 42 459 66 40 47 540 58 40 44 613 62 36 48 687 59 43 53 15 46 50 68 88 133 39 50 88 48 44 55 166 127 42 58 242 135 40 54 313 126 48 64 391 127 41 52 468 124 40 40 539 121 48 63 616 126 38 60 686 126 36 50 18 193 40 56 19 255 53 69 29 328 28 34 17 395 41 59 24 471 34 48 21 532 38 36 89 534 44 57 100 483 30 43 85 402 48 58 94 322 32 45 94 257 37 45 101 197 29 50 177 195 43 47 170 261 33 46 160 328 57 67 164 399 45 62 170 485 36 36 239 540 42 51 315 541 43 54 395 540 35 42 246 475 31 42 244 335 33 43 248 263 29 36 318 197 36 47 315 254 35 46 397 261 34 40 459 260 50 63 539 204 38 42 608 194 40 49 696 258 43 49 613 257 46 59 539 264 35 46 474 333 36 50 388 332 48 44 318 334 38 40 316 405 43 59 374 398 54 69 320 471 31 55 387 475 39 56 465 483 41 39 465 407 35 44 532 403 47 59 613 408 35 47 614 335 39 51 551 334 27 41 684 327 46 56 681 404 58 63 691 471 44 58 607 472 38 45 531 530 50 59 455 538 41 42 692 535 33 44
+/home/rahul/anaconda3/HaarTraining/more_faces2/1.jpg 1 65 45 65 98
+/home/rahul/anaconda3/HaarTraining/more_faces2/11.jpg 1 73 7 120 160
+/home/rahul/anaconda3/HaarTraining/more_faces2/13.jpg 1 48 150 236 262
+/home/rahul/anaconda3/HaarTraining/more_faces2/14.jpg 1 178 186 284 395
+/home/rahul/anaconda3/HaarTraining/more_faces2/15.jpg 6 61 15 37 52 121 20 36 51 161 17 28 44 200 21 32 40 239 25 32 37 239 25 32 37
+/home/rahul/anaconda3/HaarTraining/more_faces2/18.jpg 1 129 213 452 471
+/home/rahul/anaconda3/HaarTraining/more_faces2/19.jpg 1 59 111 174 231
+/home/rahul/anaconda3/HaarTraining/more_faces2/2.jpg 1 62 119 188 235
+/home/rahul/anaconda3/HaarTraining/more_faces2/21.jpg 1 47 76 209 248
+/home/rahul/anaconda3/HaarTraining/more_faces2/22.jpg 1 138 145 229 259
+/home/rahul/anaconda3/HaarTraining/more_faces2/24.jpg 1 205 213 269 376
+/home/rahul/anaconda3/HaarTraining/more_faces2/25.jpg 1 186 211 244 294
+/home/rahul/anaconda3/HaarTraining/more_faces2/26.jpg 1 61 52 81 101
+/home/rahul/anaconda3/HaarTraining/more_faces2/27.jpg 1 137 228 333 442
+/home/rahul/anaconda3/HaarTraining/more_faces2/28.jpg 1 222 13 342 471
+/home/rahul/anaconda3/HaarTraining/more_faces2/29.jpg 1 234 1 157 186
+/home/rahul/anaconda3/HaarTraining/more_faces2/3.jpg 1 38 50 100 138
+/home/rahul/anaconda3/HaarTraining/more_faces2/31.jpg 1 620 197 342 479
+/home/rahul/anaconda3/HaarTraining/more_faces2/32.jpg 1 44 70 110 135
+/home/rahul/anaconda3/HaarTraining/more_faces2/33.jpg 1 171 85 324 382
+/home/rahul/anaconda3/HaarTraining/more_faces2/34.jpg 1 149 147 329 460
+/home/rahul/anaconda3/HaarTraining/more_faces2/35.jpg 1 179 17 252 377
+/home/rahul/anaconda3/HaarTraining/more_faces2/36.jpg 1 134 33 192 266
+/home/rahul/anaconda3/HaarTraining/more_faces2/37.jpg 1 94 85 186 250
+/home/rahul/anaconda3/HaarTraining/more_faces2/38.jpg 1 147 70 287 392
+/home/rahul/anaconda3/HaarTraining/more_faces2/39.jpg 1 340 95 220 306
+/home/rahul/anaconda3/HaarTraining/more_faces2/4.jpg 1 62 34 89 134
+/home/rahul/anaconda3/HaarTraining/more_faces2/40.jpg 1 287 44 175 264
+/home/rahul/anaconda3/HaarTraining/more_faces2/41.jpg 1 53 112 220 275
+/home/rahul/anaconda3/HaarTraining/more_faces2/42.jpg 1 140 203 366 499
+/home/rahul/anaconda3/HaarTraining/more_faces2/43.jpg 1 194 82 276 394
+/home/rahul/anaconda3/HaarTraining/more_faces2/44.jpg 1 159 135 241 356
+/home/rahul/anaconda3/HaarTraining/more_faces2/45.JPG 1 121 218 469 469
+/home/rahul/anaconda3/HaarTraining/more_faces2/48.jpg 1 45 91 197 262
+/home/rahul/anaconda3/HaarTraining/more_faces2/49.jpg 1 183 155 210 318
+/home/rahul/anaconda3/HaarTraining/more_faces2/5.jpg 1 141 202 365 451
+/home/rahul/anaconda3/HaarTraining/more_faces2/50.jpg 1 55 118 259 355
+/home/rahul/anaconda3/HaarTraining/more_faces2/51.jpg 1 60 152 200 280
+/home/rahul/anaconda3/HaarTraining/more_faces2/52.jpg 1 95 43 87 106
+/home/rahul/anaconda3/HaarTraining/more_faces2/53.jpg 1 234 69 77 107
+/home/rahul/anaconda3/HaarTraining/more_faces2/54.jpg 1 142 210 437 477
+/home/rahul/anaconda3/HaarTraining/more_faces2/55.jpg 1 278 83 310 446
+/home/rahul/anaconda3/HaarTraining/more_faces2/56.jpg 1 95 52 73 91
+/home/rahul/anaconda3/HaarTraining/more_faces2/58.jpg 1 142 50 45 60
+/home/rahul/anaconda3/HaarTraining/more_faces2/6.jpg 1 32 62 119 175
+/home/rahul/anaconda3/HaarTraining/more_faces2/60.jpg 1 54 37 75 104
+/home/rahul/anaconda3/HaarTraining/more_faces2/62.jpg 1 125 30 53 69
+/home/rahul/anaconda3/HaarTraining/more_faces2/63.jpg 1 90 3 114 145
+/home/rahul/anaconda3/HaarTraining/more_faces2/64.jpg 1 45 22 82 122
+/home/rahul/anaconda3/HaarTraining/more_faces2/65.jpg 1 114 30 68 93
+/home/rahul/anaconda3/HaarTraining/more_faces2/66.jpg 1 30 49 125 192
+/home/rahul/anaconda3/HaarTraining/more_faces2/67.jpg 1 55 61 77 98
+/home/rahul/anaconda3/HaarTraining/more_faces2/68.jpg 1 112 34 68 77
+/home/rahul/anaconda3/HaarTraining/more_faces2/69.jpg 1 118 33 60 89
+/home/rahul/anaconda3/HaarTraining/more_faces2/70.jpg 1 137 21 69 105
+/home/rahul/anaconda3/HaarTraining/more_faces2/8.jpg 1 69 89 178 264
+/home/rahul/anaconda3/HaarTraining/more_faces2/9.jpg 1 26 35 93 127
+/home/rahul/anaconda3/HaarTraining/someface/1.jpeg 1 76 58 87 145
+/home/rahul/anaconda3/HaarTraining/someface/10.jpeg 2 39 62 86 167 143 37 74 147
+/home/rahul/anaconda3/HaarTraining/someface/11.jpeg 2 23 48 68 96 149 32 69 107
+/home/rahul/anaconda3/HaarTraining/someface/12.jpeg 4 15 52 47 59 66 55 55 76 124 62 55 79 173 26 72 121
+/home/rahul/anaconda3/HaarTraining/someface/13.jpeg 1 75 28 93 112
+/home/rahul/anaconda3/HaarTraining/someface/14.jpeg 5 9 71 21 36 64 124 38 70 60 48 25 41 106 35 32 48 157 51 40 56
+/home/rahul/anaconda3/HaarTraining/someface/15.jpeg 6 44 99 40 73 126 149 33 63 194 85 41 56 136 85 37 48 83 90 34 52 168 47 27 44
+/home/rahul/anaconda3/HaarTraining/someface/16.jpeg 3 7 37 66 162 90 48 69 146 159 71 16 123
+/home/rahul/anaconda3/HaarTraining/someface/17.jpeg 1 110 43 106 136
+/home/rahul/anaconda3/HaarTraining/someface/18.jpeg 4 42 91 43 100 76 35 51 114 132 98 43 84 169 121 49 86
+/home/rahul/anaconda3/HaarTraining/someface/19.jpeg 1 131 21 66 132
+/home/rahul/anaconda3/HaarTraining/someface/2.jpeg 2 81 114 51 91 120 54 55 97
+/home/rahul/anaconda3/HaarTraining/someface/20.jpeg 3 34 64 41 49 80 72 45 55 153 24 43 66
+/home/rahul/anaconda3/HaarTraining/someface/21.jpeg 1 76 55 87 123
+/home/rahul/anaconda3/HaarTraining/someface/22.jpeg 5 145 25 38 58 191 20 41 56 124 52 26 45 91 68 34 53 15 75 31 45
+/home/rahul/anaconda3/HaarTraining/someface/23.jpeg 5 54 55 24 46 82 60 20 36 121 64 24 57 155 45 24 45 196 57 24 45
+/home/rahul/anaconda3/HaarTraining/someface/24.jpeg 5 50 23 30 50 15 134 27 53 70 146 33 65 168 141 40 67 161 42 52 73
+/home/rahul/anaconda3/HaarTraining/someface/25.jpeg 2 28 37 63 127 159 27 63 134
+/home/rahul/anaconda3/HaarTraining/someface/26.jpeg 1 97 32 53 129
+/home/rahul/anaconda3/HaarTraining/someface/27.jpeg 1 96 39 66 132
+/home/rahul/anaconda3/HaarTraining/someface/28.jpeg 1 96 19 67 77
+/home/rahul/anaconda3/HaarTraining/someface/29.jpeg 1 134 28 63 105
+/home/rahul/anaconda3/HaarTraining/someface/3.jpeg 1 74 37 112 110
+/home/rahul/anaconda3/HaarTraining/someface/30.jpeg 4 36 25 53 95 177 20 28 41 52 150 47 82 160 137 52 90
+/home/rahul/anaconda3/HaarTraining/someface/31.jpeg 1 52 58 153 103
+/home/rahul/anaconda3/HaarTraining/someface/32.jpeg 4 46 53 22 28 88 50 15 36 120 52 19 30 151 48 19 26
+/home/rahul/anaconda3/HaarTraining/someface/33.jpeg 1 45 108 119 129
+/home/rahul/anaconda3/HaarTraining/someface/5.jpeg 4 32 22 43 87 88 18 30 67 154 58 30 79 189 86 30 79
+/home/rahul/anaconda3/HaarTraining/someface/6.jpeg 1 82 26 48 86
+/home/rahul/anaconda3/HaarTraining/someface/7.jpeg 1 138 14 48 79
+/home/rahul/anaconda3/HaarTraining/someface/8.jpeg 3 17 31 52 79 108 20 36 68 188 25 42 83
+/home/rahul/anaconda3/HaarTraining/someface/9.jpeg 1 100 39 97 178
+/home/rahul/anaconda3/HaarTraining/somemoreface/1.jpeg 1 95 121 315 352
+/home/rahul/anaconda3/HaarTraining/somemoreface/10.jpeg 1 181 51 187 275
+/home/rahul/anaconda3/HaarTraining/somemoreface/11.jpeg 1 151 84 210 302
+/home/rahul/anaconda3/HaarTraining/somemoreface/12.jpeg 1 181 108 176 299
+/home/rahul/anaconda3/HaarTraining/somemoreface/13.jpeg 1 139 80 207 356
+/home/rahul/anaconda3/HaarTraining/somemoreface/14.jpeg 1 130 164 183 330
+/home/rahul/anaconda3/HaarTraining/somemoreface/15.jpeg 1 181 32 163 161
+/home/rahul/anaconda3/HaarTraining/somemoreface/16.jpeg 1 150 62 147 185
+/home/rahul/anaconda3/HaarTraining/somemoreface/18.jpeg 3 31 83 86 166 210 113 71 179 348 120 98 185
+/home/rahul/anaconda3/HaarTraining/somemoreface/19.jpeg 2 68 73 147 244 279 102 186 260
+/home/rahul/anaconda3/HaarTraining/somemoreface/2.jpeg 1 192 135 132 221
+/home/rahul/anaconda3/HaarTraining/somemoreface/20.jpeg 2 43 129 121 204 389 32 87 186
+/home/rahul/anaconda3/HaarTraining/somemoreface/21.jpeg 2 163 43 89 143 298 79 73 115
+/home/rahul/anaconda3/HaarTraining/somemoreface/22.jpeg 4 10 206 99 178 142 241 113 140 277 256 95 158 410 273 85 128
+/home/rahul/anaconda3/HaarTraining/somemoreface/23.jpeg 2 67 55 101 205 315 43 62 132
+/home/rahul/anaconda3/HaarTraining/somemoreface/24.jpeg 1 154 84 130 238
+/home/rahul/anaconda3/HaarTraining/somemoreface/25.jpeg 4 88 42 43 74 172 48 37 78 284 49 45 88 395 24 33 76
+/home/rahul/anaconda3/HaarTraining/somemoreface/26.jpeg 1 150 97 149 159
+/home/rahul/anaconda3/HaarTraining/somemoreface/27.jpeg 2 122 75 24 74 360 15 43 92
+/home/rahul/anaconda3/HaarTraining/somemoreface/28.jpeg 2 46 42 145 361 303 69 101 224
+/home/rahul/anaconda3/HaarTraining/somemoreface/29.jpeg 3 33 93 95 210 197 58 99 199 345 88 136 273
+/home/rahul/anaconda3/HaarTraining/somemoreface/3.jpeg 1 161 89 309 281
+/home/rahul/anaconda3/HaarTraining/somemoreface/30.jpeg 3 100 69 65 160 219 72 65 169 354 102 63 156
+/home/rahul/anaconda3/HaarTraining/somemoreface/31.jpeg 4 150 172 43 107 304 196 45 90 378 187 60 110 257 149 41 82
+/home/rahul/anaconda3/HaarTraining/somemoreface/32.jpeg 3 118 169 120 106 236 44 137 138 236 44 137 138
+/home/rahul/anaconda3/HaarTraining/somemoreface/33.jpeg 4 44 187 71 91 250 191 71 72 386 214 65 107 383 56 76 117
+/home/rahul/anaconda3/HaarTraining/somemoreface/34.jpeg 1 241 86 121 208
+/home/rahul/anaconda3/HaarTraining/somemoreface/35.jpeg 1 185 37 177 188
+/home/rahul/anaconda3/HaarTraining/somemoreface/36.jpeg 3 0 96 86 178 244 31 63 136 409 58 50 146
+/home/rahul/anaconda3/HaarTraining/somemoreface/37.jpeg 6 185 278 65 102 293 255 47 98 396 222 52 93 41 291 70 100 41 291 70 100 102 236 47 84
+/home/rahul/anaconda3/HaarTraining/somemoreface/38.jpeg 1 158 106 109 283
+/home/rahul/anaconda3/HaarTraining/somemoreface/39.jpeg 5 59 94 28 56 148 62 29 64 232 70 34 64 322 90 30 51 403 94 26 52
+/home/rahul/anaconda3/HaarTraining/somemoreface/4.jpeg 1 36 50 245 351
+/home/rahul/anaconda3/HaarTraining/somemoreface/40.jpeg 5 73 120 66 117 190 84 53 105 283 89 52 90 381 117 51 90 221 319 66 132
+/home/rahul/anaconda3/HaarTraining/somemoreface/41.jpeg 5 18 72 101 162 221 77 86 131 348 140 68 105 426 277 70 105 423 119 55 83
+/home/rahul/anaconda3/HaarTraining/somemoreface/42.jpeg 3 18 129 122 219 169 107 123 287 356 105 95 231
+/home/rahul/anaconda3/HaarTraining/somemoreface/43.jpeg 3 115 119 52 90 229 172 54 82 357 146 60 83
+/home/rahul/anaconda3/HaarTraining/somemoreface/44.jpeg 5 13 64 48 88 114 68 52 104 226 29 43 103 332 78 38 101 443 70 40 92
+/home/rahul/anaconda3/HaarTraining/somemoreface/45.jpeg 8 50 57 26 60 107 85 32 73 154 62 24 67 205 73 31 69 263 79 27 58 326 76 27 69 364 73 20 56 403 50 25 70
+/home/rahul/anaconda3/HaarTraining/somemoreface/46.jpeg 10 36 35 44 70 96 64 41 76 87 211 36 68 148 246 37 71 219 245 38 75 216 64 31 66 328 21 33 63 317 113 36 59 370 69 37 60 437 17 38 67
+/home/rahul/anaconda3/HaarTraining/somemoreface/47.jpeg 12 65 54 146 172 254 63 173 167 498 58 134 169 662 102 127 127 833 71 130 159 431 329 121 169 600 334 155 167 241 341 136 157 49 331 155 168 818 334 137 176 1003 77 139 163 998 335 148 172
+/home/rahul/anaconda3/HaarTraining/somemoreface/48.png 16 34 34 59 71 169 30 51 80 290 35 50 64 404 31 54 74 279 154 54 67 412 160 47 60 160 153 54 66 39 159 48 58 44 286 44 56 165 285 49 64 279 281 54 64 414 288 45 55 400 399 60 66 278 404 48 59 156 394 56 76 36 403 50 69
+/home/rahul/anaconda3/HaarTraining/somemoreface/6.jpeg 1 251 26 134 170
+/home/rahul/anaconda3/HaarTraining/somemoreface/7.jpeg 1 156 69 201 260
+/home/rahul/anaconda3/HaarTraining/somemoreface/8.jpeg 1 88 120 325 302
+/home/rahul/anaconda3/HaarTraining/somemoreface/9.jpeg 1 181 80 129 239
+/home/rahul/anaconda3/HaarTraining/group/1.jpeg 8 36 220 61 85 156 160 54 102 257 188 51 84 341 157 45 84 368 244 47 86 441 194 41 83 493 227 46 74 568 173 50 94
+/home/rahul/anaconda3/HaarTraining/group/10.jpeg 6 114 102 104 251 227 89 96 224 398 179 59 172 480 214 53 137 552 201 50 128 607 232 50 111
+/home/rahul/anaconda3/HaarTraining/group/11.jpeg 5 32 181 108 211 107 313 146 233 358 374 123 221 551 206 97 187 455 174 101 185
+/home/rahul/anaconda3/HaarTraining/group/12.jpeg 2 229 147 86 165 390 227 90 155
+/home/rahul/anaconda3/HaarTraining/group/13.jpeg 11 142 172 44 82 238 167 51 88 355 177 44 82 472 125 52 105 579 122 46 92 632 54 37 85 523 73 44 76 416 70 40 74 236 51 44 80 131 76 39 79 34 85 55 86
+/home/rahul/anaconda3/HaarTraining/group/14.jpeg 3 333 106 59 188 417 88 65 212 520 101 75 201
+/home/rahul/anaconda3/HaarTraining/group/15.jpeg 7 21 222 91 135 126 213 77 127 212 212 81 138 332 120 82 124 477 179 92 137 576 293 88 118 326 279 86 133
+/home/rahul/anaconda3/HaarTraining/group/16.jpeg 2 324 257 94 159 507 64 81 166
+/home/rahul/anaconda3/HaarTraining/group/17.jpeg 5 69 411 148 217 265 397 104 201 371 222 143 218 564 88 98 180 201 101 80 106
+/home/rahul/anaconda3/HaarTraining/group/2.jpeg 11 100 219 43 68 190 173 44 73 247 193 39 76 286 230 33 39 319 230 36 73 367 210 35 66 429 217 38 61 503 199 39 65 569 174 42 77 403 140 39 67 341 138 32 63
+/home/rahul/anaconda3/HaarTraining/group/3.jpeg 7 58 214 51 108 137 79 50 136 231 202 40 102 303 138 49 99 386 129 56 103 507 133 50 114 571 121 55 129
+/home/rahul/anaconda3/HaarTraining/group/4.jpeg 2 308 279 163 219 478 8 135 212
+/home/rahul/anaconda3/HaarTraining/group/5.jpeg 7 69 43 59 103 237 99 52 90 410 64 56 94 551 84 65 106 383 425 68 97 198 412 65 101 57 366 58 97
+/home/rahul/anaconda3/HaarTraining/group/6.jpeg 14 105 37 31 77 67 262 37 78 177 282 37 80 178 77 33 81 268 32 31 75 277 273 36 78 313 27 32 324 345 27 25 79 378 266 34 80 433 44 35 88 480 282 33 73 573 246 39 79 618 83 42 76 532 50 37 71
+/home/rahul/anaconda3/HaarTraining/group/7.jpeg 4 196 405 112 217 256 68 87 169 289 329 109 245 428 298 124 211
+/home/rahul/anaconda3/HaarTraining/group/8.jpeg 4 60 153 69 155 270 120 58 136 362 161 68 114 521 53 78 139
+/home/rahul/anaconda3/HaarTraining/group/9.jpeg 6 211 250 97 182 330 322 98 161 541 323 110 202 460 126 111 152 308 87 94 140 148 93 85 170
